@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MessageSearcher</string>
+    <string name="main_list_header_source_name">微博</string>
+
+</resources>
